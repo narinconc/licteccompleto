@@ -128,11 +128,7 @@ hr {
     border-spacing: 10px;
     border-collapse: separate;
     table-layout: fixed;
-     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
-}
-
+   }
 
 .tarjetas {
     display: grid;
