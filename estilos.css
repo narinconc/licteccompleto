@@ -250,3 +250,13 @@ display:block;
         box-sizing: border-box;
     }
 }
+
+@media screen and (max-width: 600px) {
+    iframe {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: 1000px;
+        border: none;
+        display: block;
+    }
+}
