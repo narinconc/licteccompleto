@@ -130,15 +130,6 @@ hr {
     table-layout: fixed;
    }
 
-.tarjetas {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
-}
-
-
-
-
 .tarjetas td {
     background-color: #F5EEDF;
     padding: 15px;
